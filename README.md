@@ -64,8 +64,3 @@ Access to certain routes is restricted based on the user's role:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Make sure to replace placeholders like `project-directory`, `Your Name`, `https://github.com/Saurabhdixit93/CRUD_API_ROLE_BASED.git`, etc., with the appropriate values for your project. Additionally, ensure that you have a `LICENSE` file in your project directory if you're using a specific license.
-```
